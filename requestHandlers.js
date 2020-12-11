@@ -11,6 +11,9 @@ function start(response) {
         '<meta http-equiv="Content-Type" '+
         'content="text/html; charset=UTF-8" />'+
         '</head>'+
+        '<style>'+
+        'body: {backround-color: green;}'+
+        '</style>'+
         '<body>'+
         '<canvas id="myCanvas" width="578" height="200"></canvas>'+
         '<script>'+
